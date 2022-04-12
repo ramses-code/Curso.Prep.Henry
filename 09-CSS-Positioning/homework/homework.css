@@ -57,5 +57,6 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     flex-wrap: wrap;
     flex-direction: column;
     justify-content: space-between; 
+    align-self: flex-start;
 }
 
